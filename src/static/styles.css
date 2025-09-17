@@ -74,6 +74,12 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Styling for participant count display */
+.participant-info {
+  color: #666;
+  font-size: 0.9em;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
